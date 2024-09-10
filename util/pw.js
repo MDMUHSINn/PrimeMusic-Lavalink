@@ -1,6 +1,6 @@
-const status = "AUTOMATIC";
-const botName = "💎 PRIME MUSIC";
-const Text = "GlaceYT";
+const status = "/help";
+const botName = "SONIC Player";
+const Text = "Spella";
 const version = "Latest@ v1.0"; 
 const startTime = Date.now();
 
