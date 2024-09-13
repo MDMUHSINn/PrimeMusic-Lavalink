@@ -34,6 +34,7 @@ module.exports = {
       const helpDescription = `
 \`\`\`css
 Welcome to ${botName}!
+
 🎶 Sonic Player: Enjoy seamless music playback with Sonic Player. Explore advanced features from 16:00 AST to 21:00 AST. This is the demo section—experience the full power of Sonic Player during its active hours!:
 
 Sonic player commands:
