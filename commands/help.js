@@ -31,7 +31,7 @@ module.exports = {
     try {
       const botName = client.user.username; 
 
-      const helpDescription = `
+      const helpDescription = ` hii
 \`\`\`css
 Welcome to ${botName}!
 
