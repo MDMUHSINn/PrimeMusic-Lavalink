@@ -35,7 +35,7 @@ module.exports = {
 \`\`\`css
 Welcome to ${botName}!
 
-**Sonic player commands:**
+Sonic player commands:
 
 [ /play    ] - Start playing the songs.
 [ /pause   ] - Pause the current song.
