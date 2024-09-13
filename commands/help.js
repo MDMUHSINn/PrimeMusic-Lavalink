@@ -35,7 +35,7 @@ module.exports = {
 \`\`\`css
 Welcome to ${botName}!
 
-Your ultimate music companion on Discord. Here are the available commands:
+🎶 Sonic Player: Enjoy seamless music playback with Sonic Player. Explore advanced features from 16:00 AST to 21:00 AST. This is the demo section—experience the full power of Sonic Player during its active hours!:
 
 [ /play    ] - Start playing the songs.
 [ /pause   ] - Pause the current song.
