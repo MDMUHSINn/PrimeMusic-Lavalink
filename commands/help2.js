@@ -35,17 +35,17 @@ module.exports = {
 Welcome to ${botName}!
 Sonic Player is a versatile and feature-rich music bot designed for Discord servers, offering a seamless and enjoyable listening experience for users. It caters to both casual listeners and advanced users with two distinct modes:
 
-I. Basic Mode
+**I.Basic Mode**
 1.Availability: Always active.
 2.Command Style: Slash commands only.
 3.Features:
-* Play Music: Users can request songs and playlists using simple slash commands.
-* Queue Management: Basic queue functionality allows users to manage the order of songs.
-* Volume Control: Adjust the volume directly through commands.
-* Playback Controls: Play, pause, skip, and stop music with ease.
-* Search Capabilities: Find songs, albums, or artists using integrated search commands.
+* **Play Music:** Users can request songs and playlists using simple slash commands.
+* **Queue Management:** Basic queue functionality allows users to manage the order of songs.
+* **Volume Control:** Adjust the volume directly through commands.
+* **Playback Controls:** Play, pause, skip, and stop music with ease.
+* **Search Capabilities:** Find songs, albums, or artists using integrated search commands.
 
-II. Advanced Mode
+**II. Advanced Mode**
 1.Availability: Accessible from 16:00 AST to 21:00 AST.
 2.Command Style: Prefix-based commands with '1.'
 3.Features:
