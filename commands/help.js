@@ -31,13 +31,11 @@ module.exports = {
     try {
       const botName = client.user.username; 
 
-      const helpDescription = ` hii
+      const helpDescription = ` **🎶 Sonic Player: Enjoy seamless music playback with Sonic Player. Explore advanced features from 16:00 AST to 21:00 AST. This is the demo section—experience the full power of Sonic Player during its active hours!**
 \`\`\`css
 Welcome to ${botName}!
 
-🎶 Sonic Player: Enjoy seamless music playback with Sonic Player. Explore advanced features from 16:00 AST to 21:00 AST. This is the demo section—experience the full power of Sonic Player during its active hours!:
-
-Sonic player commands:
+**Sonic player commands:**
 
 [ /play    ] - Start playing the songs.
 [ /pause   ] - Pause the current song.
