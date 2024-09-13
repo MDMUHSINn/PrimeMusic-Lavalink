@@ -48,6 +48,7 @@ Sonic player commands:
 [ /ping    ] - Check bot latency.
 [ /support ] - Shows support server info.
 [ /help    ] - Display this help menu.
+[ /about   ] - Get details about sonic player.
 
 Version 1.4.2
 \`\`\`
