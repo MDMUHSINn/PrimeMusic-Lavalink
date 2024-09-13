@@ -34,10 +34,10 @@ module.exports = {
       const replitLink = "https://replit.com/@GlaceYT";
       const youtubeLink = "https://spellaexp.my.canva.site/web";
         const embed = new EmbedBuilder()
-            .setColor('#b300ff')
+            .setColor('#013220')
             .setAuthor({
               name: 'Support Server',
-              iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1230824519220985896/6280-2.gif?ex=6638ae28&is=66375ca8&hm=13e4a1b91a95b2934a39de1876e66c11711c7b30ac1a91c2a158f2f2ed1c2fc6&', 
+              iconURL: 'https://cdn.discordapp.com/attachments/1198949732937125980/1284163933762097242/de.GIF?ex=66e5a25c&is=66e450dc&hm=a63886d0378fdd3f2518c0f995ead1b9f9f88f55f749328347eedf17ace42990&', 
               url: 'https://discord.gg/uwVGgwHV3T'
           })
             .setDescription(`➡️ **Join our Discord server for support and updates:**\n- Discord - ${supportServerLink}\n\n➡️ **Website** - ${youtubeLink}`)
