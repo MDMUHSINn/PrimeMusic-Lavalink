@@ -32,7 +32,6 @@ module.exports = {
       const botName = client.user.username; 
 
       const helpDescription = ` **MORE ABOUT SONIC**
-\`\`\`css
 Welcome to ${botName}!
 Sonic Player is a versatile and feature-rich music bot designed for Discord servers, offering a seamless and enjoyable listening experience for users. It caters to both casual listeners and advanced users with two distinct modes:
 
@@ -64,7 +63,6 @@ III. Additional Features
 
 Sonic Player ensures that whether you're enjoying a casual listening session or managing a complex music setup, you have the tools and flexibility you need for an exceptional auditory experience.
 
-\`\`\`
       `;
 
       const embed = new EmbedBuilder()
