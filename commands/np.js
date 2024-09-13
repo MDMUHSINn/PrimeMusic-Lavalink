@@ -22,7 +22,7 @@ async function nowPlaying(client, interaction) {
             const errorEmbed = new EmbedBuilder()
                 .setColor('#ff0000')
                 .setTitle('Error')
-                .setDescription('❌ There is no song currently playing.');
+                .setDescription('❌ There is no audio currently playing.');
 
             await interaction.reply({ embeds: [errorEmbed], ephemeral: true });
             return;
