@@ -1,7 +1,7 @@
 const { ApplicationCommandOptionType, EmbedBuilder } = require('discord.js');
 
 module.exports = {
-  name: 'play',
+  name: 'new',
   description: 'play a track',
   inVc: true,
   sameVc: true,
