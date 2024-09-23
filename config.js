@@ -41,9 +41,9 @@ module.exports = {
   nodes: [
     {
        name: "Node #1",
-        host: "lava-v3.ajieblogs.eu.org",
-        port: 443,
-        password: "https://dsc.gg/ajidevserver",
+        Host : lava-all.ajieblogs.eu.org
+        Port : 80
+       Password : "https://dsc.gg/ajidevserver",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false
