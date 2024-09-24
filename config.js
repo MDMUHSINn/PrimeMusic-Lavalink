@@ -41,8 +41,8 @@ module.exports = {
   nodes: [
     {
         name: "Node #1",
-        host: "v3.lavalink.rocks",
-        port: 443,
+        host: "37.114.42.191",
+        port: 9906,
         password: "horizxon.tech",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
