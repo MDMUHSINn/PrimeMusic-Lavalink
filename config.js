@@ -41,12 +41,12 @@ module.exports = {
   nodes: [
     {
         name: "Node #1",
-        host: "node01.marshalxp.xyz",
-        port: 433,
-        password: "marshal",
+        host: "lava.catfein.com",
+        port: 5000,
+        password: "catfein",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
-        secure: true 
+        secure: false 
     },
  ]
 }
