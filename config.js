@@ -40,10 +40,10 @@ module.exports = {
 
   nodes: [
     {
-       name: "Working2",
-        host: "lavalink.clxud.dev",
-        port: 2333,
-        password: "youshallnotpass",
+       name: "Working1",
+        host: "nodev4.fypmoon.org",
+        port: 1118,
+        password: "fypmoon.org",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false
