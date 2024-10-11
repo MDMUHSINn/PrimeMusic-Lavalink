@@ -38,9 +38,9 @@ module.exports = {
 
    // Lavalink Server Details
 
-  nodes: [
+nodes: [
     {
-       name: "Working1",
+        name: "Working1",
         host: "nodev4.fypmoon.org",
         port: 1118,
         password: "fypmoon.org",
