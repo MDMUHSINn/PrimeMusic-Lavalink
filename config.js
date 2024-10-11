@@ -41,12 +41,12 @@ module.exports = {
   nodes: [
     {
         name: "Node #1",
-        host: "krn.2d.gay",
-        port: 443,
-        password: "AWP)JQ$Gv9}dm.u",
+        host: "lavalink.clxud.dev",
+        port: 2333,
+        password: "youshallnotpass",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
-        secure: true 
+        secure: false 
     },
  ]
 }
