@@ -41,9 +41,9 @@ module.exports = {
  nodes: [
     {
         name: "NODE",
-        host: "v4.lavalink.rocks",
-        port: 80,
-        password: "horizxon.tech",
+        host: "nodev3.fypmoon.org",
+        port: 1164,
+        password: "fypmoon.org",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false
